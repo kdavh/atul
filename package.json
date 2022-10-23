@@ -24,7 +24,7 @@
     "sinon": "^14.0.1"
   },
   "devDependencies": {
-    "@oclif/test": "^2.2.4",
+    "@oclif/test": "^2.2.6",
     "@types/chai": "^4",
     "@types/execa": "^2.0.0",
     "@types/mocha": "^9.0.0",
