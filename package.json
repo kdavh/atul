@@ -60,6 +60,7 @@
   },
   "scripts": {
     "build": "shx rm -rf dist && tsc -b",
+    "postbuild": "cp src/pkg/install.sh dist/pkg/install.sh",
     "lint": "eslint . --ext .ts --config .eslintrc",
     "postpack": "shx rm -f oclif.manifest.json",
     "posttest": "yarn lint",

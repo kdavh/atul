@@ -3,6 +3,8 @@ atul
 
 A workstation setup tool
 
+# THIS TOOL WORKS EXCEPT FOR THE CORE SH LOGIC IS BUGGY (AND BADLY CONCEIVED)
+
 # Actual intended use
 
 This package is not published to npm.
